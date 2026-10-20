@@ -1,0 +1,1 @@
+console.log('mon premier prog de git merge sqush rebase')
